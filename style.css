@@ -1,0 +1,42 @@
+body {
+    background-image: url("./img/background_image.png");
+}
+
+p.contact {
+    color : #545253;
+}
+
+h1, h2, h3, h4, .name, .profession, .contact, .nav-link {
+    font-family: 'Droid Sans', sans-serif;  
+}
+
+.aboutme {
+    font-family: 'Droid Sans', sans-serif;
+}
+
+h4, h5, h6, .profession {
+    color : #545253;    
+}
+
+h1, h2, h3, .name {
+    color : #333333;
+}
+
+p.description {
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+.version {
+    font-family : Helvetica;
+    color : #666666;
+    font-size : 14px;
+}
+
+.nav-link{
+    color : white;
+}
+
+.period {
+    font-style: italic;
+    font-weight: 100;
+}
